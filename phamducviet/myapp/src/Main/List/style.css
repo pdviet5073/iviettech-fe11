@@ -1,0 +1,25 @@
+.list{
+    background-color: blanchedalmond;
+    
+    width: calc(100% - 300px);
+     
+     
+    
+}
+.list h2{
+    padding-left: 40px;
+    display: block;
+}
+
+
+.list div{
+    width: 100%;
+    justify-content: space-evenly;
+}
+.item{
+    border: 1px solid #ccc;
+
+}
+.item-active{
+    border: 1px solid red;
+}
