@@ -1,0 +1,27 @@
+.list{
+    margin: 0;
+    padding: 0;
+    width: calc(100% - 300px);  
+}
+.list-group{
+    margin: 40px;
+    border-radius: 1px solid rgb(0,0,0);
+    box-shadow: 0 6px 12px 0 rgb(0,0,0, .28);
+padding: 30px;
+   
+}
+.list-item{
+    display: flex;
+
+   
+    flex-direction: row;
+}
+.list-item-heading{
+    background-image: url(../../images/bg-heading-02.jpg);
+    width: 29.1%;
+    
+   
+}
+.list-item-body{
+    padding: 20px 30px
+}
